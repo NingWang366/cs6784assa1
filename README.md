@@ -1,6 +1,6 @@
 # cs6784assa1
 
-Suggested Python: 3.9.13
+Suggested Python: 3.10
 
 ## Reproducibility Steps
 
