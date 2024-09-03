@@ -14,18 +14,13 @@ cd cs6784assa1
 ### Step 2: Install dependencies
 
 ```
-sudo apt-get update
-sudo apt-get install virtualenv
-virtualenv venv
-source ./venv/bin/activate 
-
 pip install -r requirements.txt
 ```
 
-### Step 3: Generate all plots
+### Step 3: Run the script
 
 ```
-bash reproduce.sh
+jupyter notebook cs_6784.ipynb
 ```
 
 
