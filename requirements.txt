@@ -1,0 +1,7 @@
+Pillow
+requests
+transformers
+torch
+torchvision
+matplotlib
+tqdm
