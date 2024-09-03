@@ -28,12 +28,4 @@ pip install -r requirements.txt
 bash reproduce.sh
 ```
 
-The plots generated after running the code are present in reproducibility/freshRuns/ folder. Please go over reproducibility/readme.pdf to interpret the results.
 
-
-### (Optional) Step 4: Reproduce individual plots
-
-```
-cd reproducibility/scripts/
-
-```
