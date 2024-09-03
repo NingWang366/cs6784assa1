@@ -17,7 +17,19 @@ cd cs6784assa1
 pip install -r requirements.txt
 ```
 
-### Step 3: Run the script
+### step 3: Set Up a Virtual Environment
+```
+for mac or linux
+
+python3 -m venv env
+source env/bin/activate
+
+for windows
+
+python -m venv env
+.\env\Scripts\activate
+```
+### Step 4: Run the script
 
 ```
 jupyter notebook cs_6784.ipynb
